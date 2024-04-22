@@ -6,3 +6,6 @@
     * [成本](VE/VE_finance_03.md)
     * [出纳](VE/VE_finance_04.md)
     * [薪资](VE/VE_finance_05.md)
+* delphi
+    * [delphi快捷键](delphi/delphi_01.md)
+    * [delphi数据库代码](delphi/delphi_02.md)
