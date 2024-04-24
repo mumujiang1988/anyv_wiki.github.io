@@ -7,8 +7,8 @@
 ## 基础资料设置  初始化  财务模块配置
 
 <figure class="third">
-<img src="../images/11544a79f2e86ee02e37ff7322bacf3dce9e0f26c120782283d8ff68d7f64354.png" width=300/>
-<img src="../images/5c96e8d89d7f370e148a40dff71b567e17838057def5dd8a616d9b81cd27094d.png" width=300/>
+<img src="../images/11544a79f2e86ee02e37ff7322bacf3dce9e0f26c120782283d8ff68d7f64354.png" width=350/>
+<img src="../images/5c96e8d89d7f370e148a40dff71b567e17838057def5dd8a616d9b81cd27094d.png" width=350/>
 </figure>
 
 ### 1.财务相关设置
