@@ -2,7 +2,7 @@
 
 总账模块是ERP系统中财务的核心组件，负责处理企业的会计凭证、账簿报表的管理以及与各业务系统的集成。
 
-<img align="right" src="../images/76a06996d971dfb38fc2cebbf587da3f8aee5125f0237d996f661b25d89a46c9.png"/>
+<img align="right" src="/images/76a06996d971dfb38fc2cebbf587da3f8aee5125f0237d996f661b25d89a46c9.png"/>
  
 ## 1. 总账参数
 
