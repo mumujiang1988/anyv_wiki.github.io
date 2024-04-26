@@ -1,7 +1,7 @@
 # 固定资产模块系统操作
 
 固定资产模块是高格ERP系统中用于管理企业固定资产全生命周期的重要组成部分，涵盖资产新增、计提折旧、与总账对账等功能。
-<img align="right" src="../images/c4236a30033bd76eeaf48d57fb9f4cfdaa55c0402db52fe56262376d7e146617.png"/>
+<img align="right" src="https://mumujiang1988.github.io/anyv_wiki.github.io/images/c4236a30033bd76eeaf48d57fb9f4cfdaa55c0402db52fe56262376d7e146617.png"/>
 
 ## 开启流程 固定资产基本设置，初始化数据，启动固定资产
 
