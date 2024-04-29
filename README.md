@@ -1,5 +1,7 @@
 # 高格财务功能手册
 
+<img align="right" src="https://mumujiang1988.github.io/anyv_wiki.github.io/images/f64069089f409ea8a539d310bf7c9c68c17a2e69c991f7a5f7b700bc51506613.png"/>
+
 ## 目录
 
 - [高格财务功能手册](#高格财务功能手册)
@@ -10,8 +12,7 @@
   - [资金预算](#资金预算)
   - [财务业务一体化](#财务业务一体化)
   - [阿米巴多组织与集团管理](#阿米巴多组织与集团管理)
- 
-<img align="right" src="https://mumujiang1988.github.io/anyv_wiki.github.io/images/f64069089f409ea8a539d310bf7c9c68c17a2e69c991f7a5f7b700bc51506613.png"/>
+
 ## 概述
 
 高格财务系统提供全面的财务业务一体化、五大成本体系、分步式多组织管理，引领企业战略，助力企业数字化转型。
