@@ -1,11 +1,9 @@
-# 高格财务功能手册
 
-<img align="right" src="https://mumujiang1988.github.io/anyv_wiki.github.io/images/f64069089f409ea8a539d310bf7c9c68c17a2e69c991f7a5f7b700bc51506613.png"/>
+<img align="right" src="https://mumujiang1988.github.io/anyv_wiki.github.io/images/a6a553180b85ea6dd0dfbb63fbb0f04894346c515ef9097ada46a5954905283d.png"/>
 
-## 目录
+# 目录
 
-- [高格财务功能手册](#高格财务功能手册)
-  - [目录](#目录)
+- [目录](#目录)
   - [概述](#概述)
   - [基础模块](#基础模块)
   - [成本核算](#成本核算)
