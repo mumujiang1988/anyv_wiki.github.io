@@ -1,6 +1,6 @@
 # 总账模块系统配置
 
-总账模块是ERP系统中财务的核心组件，负责处理企业的会计凭证、账簿报表的管理以及与各业务系统的集成。
+总账模块是高格ERP系统中财务的核心组件，负责处理企业的会计凭证、账簿报表的管理以及与各业务系统的集成。
 
 <img align="right" src="https://mumujiang1988.github.io/anyv_wiki.github.io/images/c4236a30033bd76eeaf48d57fb9f4cfdaa55c0402db52fe56262376d7e146617.png"/>
 
