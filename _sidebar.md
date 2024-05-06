@@ -1,12 +1,13 @@
 * 序章
-    * [VE功能概览](README.md)
+  * [VE功能概览](README.md)
 * 财务篇
-    * [总账](VE/VE_finance_01.md)
-    * [固资](VE/VE_finance_02.md)
-    * [成本](VE/VE_finance_03.md)
-    * [出纳](VE/VE_finance_04.md)
-    * [薪资](VE/VE_finance_05.md)
-    * [一体化](VE/VE_finance_06.md)
+  * [总账](VE/VE_finance_01.md)
+  * [固资](VE/VE_finance_02.md)
+  * [成本](VE/VE_finance_03.md)
+  * [出纳](VE/VE_finance_04.md)
+  * [薪资](VE/VE_finance_05.md)
+  * [一体化](VE/VE_finance_06.md)
+  * [多组织](VE/VE_finance_07.md)
 * delphi
-    * [delphi快捷键](delphi/delphi_01.md)
-    * [delphi数据库代码](delphi/delphi_02.md)
+  * [delphi快捷键](delphi/delphi_01.md)
+  * [delphi数据库代码](delphi/delphi_02.md)
